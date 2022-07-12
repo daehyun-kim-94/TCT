@@ -1,0 +1,6 @@
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.csproj.CoreCompileInputs.cache
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe.config
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.pdb
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.pdb
